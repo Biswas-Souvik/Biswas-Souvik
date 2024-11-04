@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Souvik Biswas
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Mathematics Honours at Jadavpur University
+- 👀 I’m interested in Software Development
 - 📫 reach me At biswassouvik284@gmail.com
 
 <!---
